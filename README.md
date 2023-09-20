@@ -1,4 +1,4 @@
-# Análisis de Ventas de Amazon en Estados Unidos en 2019
+# Análisis de Ventas [Proyecto 1 Big Data y ML (UPSO)]
 
 Este repositorio contiene un análisis de las ventas de Amazon en Estados Unidos durante el año 2019. El análisis se divide en varios pasos, que se detallan a continuación:
 
@@ -34,5 +34,7 @@ Los datos se encuentran almacenados en un directorio propio denominado "Dataset 
 
 ### Resumen de Resultados
 El análisis revela el comportamiento de las ventas de Amazon en Estados Unidos a lo largo de 2019, destacando los meses con mayor actividad y los ingresos totales generados. Los resultados se visualizan de manera clara y concisa para comprender fácilmente el rendimiento de ventas de Amazon en ese año.
+
+Dentro del repositorio también se encuentra un informe detallado de todo lo analizado ver: Informe_Proyecto1_Analisis_Ventas_Ivan_Tapia.pdf.
 
 Para obtener más detalles y visualizar las gráficas generadas, por favor, revise y ejecute el código de este repositorio en colab.
